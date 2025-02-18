@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yattijoshi
+- 👋 Hi, I’m @Yatendrajoshi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on open source
